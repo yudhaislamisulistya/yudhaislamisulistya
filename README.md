@@ -35,7 +35,7 @@
 <br/>
 
 # 🏆 my Trophy from Github
-[![trophy](https://github-profile-trophy.vercel.app/?username=yudhaislamisulistya&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yudhaislamisulistya&theme=onedark&row=2&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yudhaislamisulistya&theme=dark)](https://git.io/streak-stats)
