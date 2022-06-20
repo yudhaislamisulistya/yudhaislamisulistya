@@ -41,6 +41,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yudhaislamisulistya&theme=dark)](https://git.io/streak-stats)
 
 ## Languages
+<p>
+
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="35" />
 
 <img src="https://img.shields.io/badge/Php-282C34?logo=Php&logoColor=777BB4" alt="Php logo" title="Php" height="35" />
@@ -52,6 +54,8 @@
 <img src="https://img.shields.io/badge/C%2B%2B-282C34?logo=C%2B%2B&logoColor=00599C" alt="C%2B%2B logo" title="C%2B%2B" height="35" />
 
 <img src="https://img.shields.io/badge/Dart-282C34?logo=Dart&logoColor=0175C2" alt="Dart logo" title="Dart" height="35" />
+
+</p>
 
 ## Framework
 <img src="https://img.shields.io/badge/Laravel-282C34?logo=Laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="35" />
