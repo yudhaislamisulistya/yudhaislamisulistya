@@ -41,8 +41,6 @@
 # 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yudhaislamisulistya&theme=dark)](https://git.io/streak-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/AP2Topper0127/AP2Topper0127/output/dark.svg#gh-dark-mode-only)
-
 ## Languages
 <p>
 
