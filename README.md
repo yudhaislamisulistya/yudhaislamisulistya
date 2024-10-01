@@ -1,7 +1,7 @@
 <h3 align="center"><img src='https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-thumbs-up-gif.gif' height="30px"> Hi there! I'm Yudha Islami Sulistya</h3>
 <p align="center" style="font-style: italic;">Interest Machine Learning Engineer and Software Engineer</p>
 
-## Let's connect and chat! :school:   
+## Let's connect and chat! :school:    
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yudhaislamisulistya/">
